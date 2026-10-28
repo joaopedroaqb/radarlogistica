@@ -1,0 +1,2 @@
+Radar Logistico Doce Mineiro v2.0
+Extraia o arquivo HTML e abra em seu navegador. O painel funciona offline; os links de fonte sao apenas referencias.
